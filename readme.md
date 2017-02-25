@@ -1,5 +1,5 @@
 ************************************************************************************
-A Complete Authentication using RESTful server implementation for CodeIgniter 3.1.3.
+# A Complete Authentication using RESTful server implementation for CodeIgniter 3.1.3.
 ************************************************************************************
 aurthor:            Richard Sunny
 
